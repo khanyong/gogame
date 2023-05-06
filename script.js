@@ -16,8 +16,8 @@ function login() {
   const password = document.getElementById('password').value;
 
   // Replace the following credentials with the actual user authentication process
-  const correctUsername = 'newUser';
-  const correctPassword = 'newPassword';
+  const correctUsername = 'user';
+  const correctPassword = 'pass';
 
   if (username === correctUsername && password === correctPassword) {
     document.getElementById('loginForm').style.display = 'none';
