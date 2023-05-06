@@ -1,0 +1,17 @@
+{
+    "gameTitle": "WEB 바둑 게임",
+    "boardSize": 19,
+    "timerDuration": 300,
+    "players": [
+        {
+          "id": "A",
+          "name": "플레이어 A",
+          "color": "black"
+        },
+        {
+          "id": "B",
+          "name": "플레이어 B",
+          "color": "white"
+        }
+    ]
+}
